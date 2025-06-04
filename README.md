@@ -158,6 +158,7 @@ The system is divided into multiple components, each handling a specific functio
 
 
 ![WebServer with installed apache Diagram](images/webserver.png)
+![apache Diagram](images/apache.png)
 ![Database Diagram](images/rds.png)
 
 ---
