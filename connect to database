@@ -1,0 +1,5 @@
+# Install MySQL client if not installed
+sudo yum install -y mysql
+
+# Connect to the RDS MySQL database
+mysql -h <RDS_ENDPOINT> -u <DB_USERNAME> -p
